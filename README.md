@@ -1,5 +1,4 @@
 # Website Performance Optimization portfolio project
-============= 
 
 _My project can viewed at http://archis99.github.io/web-opt/_
 
